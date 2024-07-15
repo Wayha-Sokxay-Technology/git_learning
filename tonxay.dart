@@ -1,4 +1,4 @@
 class Person {
-  String name = "tonxay";
+  String name = "tonxay inpaserd";
   DateTime date = DateTime.now();
 }
